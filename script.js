@@ -142,4 +142,4 @@ async function getData(target) {
     }
 }
 
-getData('Chennai')
+getData('Chennai');
